@@ -1,6 +1,7 @@
-# 💫 About Me:
-A trans developer, currently Senior Machine Learning Engineer @ Zurich Santander.
-I live in São Paulo, Brazil.
+# 👋 Hey, I’m Sophia!  
+A data nerd with a passion for solving problems through **Machine Learning** and **Data Engineering**. 
+
+I build **scalable pipelines**, optimize **ML models**, and love diving into new technologies. 🚀
 
 
 ## 🌐 Socials:
