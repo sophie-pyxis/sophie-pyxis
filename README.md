@@ -14,8 +14,5 @@ I build **scalable pipelines**, optimize **ML models**, and love diving into new
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sophia-helena-paula&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sophia-helena-paula&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sophia-helena-paula&icon=0&color=0)](https://visitcount.itsvg.in)
