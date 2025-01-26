@@ -7,7 +7,7 @@ Eu construo **pipelines escaláveis**, otimizo **modelos de ML** e adoro explora
 ---
 
 ## 🌐 **Socials**:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff00ff?style=for-the-badge&logo=linkedin&logoColor=00ffff&labelColor=050a30)](https://www.linkedin.com/in/sophia-katze/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050a30?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/sophia-katze/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-050a30?style=for-the-badge&logo=bluesky&logoColor=00FFFF)](https://bsky.app/profile/sophia.meoow.dev)
 
 ---
