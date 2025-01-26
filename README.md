@@ -1,7 +1,9 @@
-# 👋 Hey, I’m Sophia!  
-A data nerd with a passion for solving problems through **Machine Learning** and **Data Engineering**. 
+![👋](https://media.licdn.com/dms/image/v2/D4D16AQHzH6BAIfBsyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737860668510?e=1743638400&v=beta&t=4cbiP48C9Ggl6vjymkslMW3uV6mdYKbVIgwa07bJ9Ho)  
+ 
+Uma nerd de dados apaixonada por resolver problemas com **Machine Learning** e **Engenharia de Dados**.  
 
-I build **scalable pipelines**, optimize **ML models**, and love diving into new technologies. 🚀
+Eu construo **pipelines escaláveis**, otimizo **modelos de ML** e adoro explorar novas tecnologias. 🚀
+
 
 
 ## 🌐 Socials:
