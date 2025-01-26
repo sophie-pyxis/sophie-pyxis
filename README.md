@@ -1,4 +1,4 @@
-![👋]([https://media.licdn.com/dms/image/v2/D4D16AQHzH6BAIfBsyg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737860668510?e=1743638400&v=beta&t=4cbiP48C9Ggl6vjymkslMW3uV6mdYKbVIgwa07bJ9Ho](https://www.canva.com/design/DAGdQrvXMPU/fvwD9BiptJX6Bkj9rQzfXA/view?utm_content=DAGdQrvXMPU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=heb05e93244))  
+![👋]([https://drive.google.com/file/d/1wIYawPhfNrhjXpeUcAudhZ2ooVRWsTjc/view?usp=sharing])  
  
 Uma nerd de dados apaixonada por resolver problemas com **Machine Learning** e **Engenharia de Dados**.  
 
