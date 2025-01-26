@@ -58,8 +58,3 @@ Eu construo **pipelines escaláveis**, otimizo **modelos de ML** e adoro explora
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sophia-katze&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=050a30&title_color=ff00ff&text_color=00ffff&icon_color=87CEEB)
 
 ---
-
-## ✨ **Motivational Badge**:
-![Keep Building](https://img.shields.io/badge/Keep%20Building!-ff00ff?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=050a30)
-
----
