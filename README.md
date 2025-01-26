@@ -1,9 +1,8 @@
 [![Ol-me-chamo-Sophia-Katze-Muito-prazer-1.png](https://i.postimg.cc/5y7zVkTq/Ol-me-chamo-Sophia-Katze-Muito-prazer-1.png)](https://postimg.cc/0KSjGZ8b)
  
-Uma nerd de dados apaixonada por resolver problemas com **Machine Learning** e **Engenharia de Dados**.  \n
+Uma nerd de dados apaixonada por resolver problemas com **Machine Learning** e **Engenharia de Dados**.
+
 Eu construo **pipelines escaláveis**, otimizo **modelos de ML** e adoro explorar novas tecnologias. 🚀
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophia-helena/) 
