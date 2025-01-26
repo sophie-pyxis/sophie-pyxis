@@ -1,4 +1,4 @@
-![👋]([https://drive.google.com/file/d/1wIYawPhfNrhjXpeUcAudhZ2ooVRWsTjc/view?usp=sharing])  
+![👋](https://drive.google.com/file/d/1wIYawPhfNrhjXpeUcAudhZ2ooVRWsTjc/view?usp=sharing)  
  
 Uma nerd de dados apaixonada por resolver problemas com **Machine Learning** e **Engenharia de Dados**.  
 
