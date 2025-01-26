@@ -16,6 +16,7 @@ Eu construo **pipelines escaláveis**, otimizo **modelos de ML** e adoro explora
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sophia-katze&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=050a30&title_color=ff00ff&text_color=00ffff&icon_color=87CEEB)
 
 ---
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsophia-katze&count_bg=050a30&title_bg=ff00ff&icon=github.svg&icon_color=00ffff&title=Visits&edge_flat=false)
+![Visitor Count](https://img.shields.io/badge/Visitors-0-050a30?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=ff00ff)
+
 
 
