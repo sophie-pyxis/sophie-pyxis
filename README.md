@@ -1,4 +1,4 @@
-![👋](https://drive.google.com/file/d/1wIYawPhfNrhjXpeUcAudhZ2ooVRWsTjc/view?usp=sharing)  
+[![Ol-me-chamo-Sophia-Katze-Muito-prazer-1.png](https://i.postimg.cc/5y7zVkTq/Ol-me-chamo-Sophia-Katze-Muito-prazer-1.png)](https://postimg.cc/0KSjGZ8b)
  
 Uma nerd de dados apaixonada por resolver problemas com **Machine Learning** e **Engenharia de Dados**.  
 
