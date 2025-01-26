@@ -12,10 +12,11 @@ Eu construo **pipelines escaláveis**, otimizo **modelos de ML** e adoro explora
 ---
 
 ## 💻 **Tech Stack**:
-![Python](https://img.shields.io/badge/Python-050a30?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![AWS](https://img.shields.io/badge/AWS-%23050a30.svg?style=for-the-badge&logo=amazon-web-services&logoColor=FF9900)
+
+![AWS](https://custom-icon-badges.demolab.com/badge/Amazon%20AWS-%23050a30?logo=amazon-aws&logoColor=FF9900)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-%23050a30?logo=msazure&logoColor=00FFFF)
 ![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-%23050a30?logo=azuredevops&logoColor=00FFFF)
+![Python](https://img.shields.io/badge/Python-050a30?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Keras](https://img.shields.io/badge/Keras-050a30?style=for-the-badge&logo=keras&logoColor=ff00ff) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-050a30?style=for-the-badge&logo=tensorflow&logoColor=ff6f00) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-050a30?style=for-the-badge&logo=pytorch&logoColor=ff00ff) 
