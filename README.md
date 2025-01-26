@@ -25,9 +25,9 @@ Eu construo **pipelines escaláveis**, otimizo **modelos de ML** e adoro explora
 ![MySQL](https://img.shields.io/badge/MySQL-050a30?style=for-the-badge&logo=mysql&logoColor=ff00ff)
 ------------------
 ![Python](https://img.shields.io/badge/Python-050a30?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![AWS](https://img.shields.io/badge/AWS-050a30?style=for-the-badge&logo=amazon-aws&logoColor=ff9900)
-![Azure](https://img.shields.io/badge/Azure-050a30?style=for-the-badge&logo=azure&logoColor=00ffff) 
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-050a30?style=for-the-badge&logo=azuredevops&logoColor=00ffff)
+![AWS](https://img.shields.io/badge/AWS-050a30?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-050a30?style=for-the-badge&logo=microsoft-azure&logoColor=00B5E2)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-050a30?style=for-the-badge&logo=azuredevops&logoColor=0078D4)
 ![Keras](https://img.shields.io/badge/Keras-050a30?style=for-the-badge&logo=keras&logoColor=ff00ff) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-050a30?style=for-the-badge&logo=tensorflow&logoColor=ff6f00) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-050a30?style=for-the-badge&logo=pytorch&logoColor=ff00ff) 
