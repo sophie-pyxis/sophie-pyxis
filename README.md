@@ -14,7 +14,7 @@ Eu construo **pipelines escaláveis**, otimizo **modelos de ML** e adoro explora
 ## 💻 **Tech Stack**:
 ![Python](https://img.shields.io/badge/Python-050a30?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![AWS](https://img.shields.io/badge/AWS-%23050a30.svg?style=for-the-badge&logo=amazon-web-services&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-050a30?style=for-the-badge&logo=microsoft-azure&logoColor=00B5E2)
+![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-00B5E2?logo=msazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-050a30?style=for-the-badge&logo=azuredevops&logoColor=0078D4)
 ![Keras](https://img.shields.io/badge/Keras-050a30?style=for-the-badge&logo=keras&logoColor=ff00ff) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-050a30?style=for-the-badge&logo=tensorflow&logoColor=ff6f00) 
@@ -39,7 +39,6 @@ Eu construo **pipelines escaláveis**, otimizo **modelos de ML** e adoro explora
 ![Flask](https://img.shields.io/badge/Flask-050a30?style=for-the-badge&logo=flask&logoColor=ff00ff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-050a30?style=for-the-badge&logo=fastapi&logoColor=ff9900)
 ![Selenium](https://img.shields.io/badge/Selenium-050a30?style=for-the-badge&logo=selenium&logoColor=00ffff)
-![Tesseract](https://img.shields.io/badge/Tesseract-050a30?style=for-the-badge&logo=tesseract&logoColor=00ffff) 
 ![Keras OCR](https://img.shields.io/badge/Keras%20OCR-050a30?style=for-the-badge&logo=keras&logoColor=ff6f00) 
 ![Power BI](https://img.shields.io/badge/Power%20BI-050a30?style=for-the-badge&logo=powerbi&logoColor=00ffff) 
 ![Grafana](https://img.shields.io/badge/Grafana-050a30?style=for-the-badge&logo=grafana&logoColor=ff00ff) 
