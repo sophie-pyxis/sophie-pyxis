@@ -1,18 +1,18 @@
 [![Ol-me-chamo-Sophia-Katze-Muito-prazer-1.png](https://i.postimg.cc/5y7zVkTq/Ol-me-chamo-Sophia-Katze-Muito-prazer-1.png)](https://postimg.cc/0KSjGZ8b)
 
-Uma nerd de dados apaixonada por resolver problemas com **Machine Learning** e **Engenharia de Dados**.
-
-Eu construo **pipelines escaláveis**, otimizo **modelos de ML** e adoro explorar novas tecnologias. 🚀
-
+🏳️‍⚧️ **Mulher Trans**
+💻 **Engenheira de Machine Learning & Dados com +10 anos de experiência em Dados**
+⚧️ **Líder em DE&I focada em Pessoas Trans**  
+Sou uma profissional apaixonada por construir **pipelines de dados escaláveis** e **sistemas de ML robustos**, com foco em Azure, Databricks e TensorFlow/PyTorch. Além do código, lidero a **TransDevs** – a maior comunidade trans em TI do Brasil, impactando a vida de **1.000+ pessoas Trans**.
 ---
 
-## 🌐 **Socials**:
+## 🌐 **Redes Sociais**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050a30?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/sophia-katze/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-050a30?style=for-the-badge&logo=bluesky&logoColor=00FFFF)](https://bsky.app/profile/sophia.meoow.dev)
 
 ---
 
-## 💻 **Tech Stack**:
+## 💻 **Stack Técnica**:
 ![Python](https://img.shields.io/badge/Python-050a30?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![AWS](https://img.shields.io/badge/AWS-%23050a30.svg?style=for-the-badge&logo=amazon-web-services&logoColor=FF9900)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-%23050a30?logo=msazure&logoColor=00FFFF)
