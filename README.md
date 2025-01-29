@@ -2,7 +2,7 @@
 
 🏳️‍⚧️ **Mulher Trans**
 
-💻 **Engenheira de Machine Learning & Dados com +10 anos de experiência em Dados**
+💻 **Engenheira de Machine Learning com +10 anos de experiência em Dados**
 
 ⚧️ **Líder em DE&I focada em Pessoas Trans**
 
