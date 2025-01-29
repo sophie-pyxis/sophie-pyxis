@@ -4,7 +4,7 @@
 
 💻 **Engenheira de Machine Learning com +10 anos de experiência em Dados**
 
-⚧️ **Líder em DE&I focada em Pessoas Trans**
+⚧️ **Liderança em DE&I focada em Pessoas Trans**
 
 ---
 
