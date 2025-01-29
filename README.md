@@ -6,7 +6,10 @@
 
 ⚧️ **Líder em DE&I focada em Pessoas Trans**
 
+---
+
 Sou uma profissional apaixonada por construir **pipelines de dados escaláveis** e **sistemas de ML robustos**, com foco em Azure, Databricks e TensorFlow/PyTorch. Além do código, lidero a **TransDevs** – a maior comunidade trans em TI do Brasil, impactando a vida de **1.000+ pessoas Trans**.
+
 ---
 
 ## 🌐 **Redes Sociais**:
