@@ -1,8 +1,11 @@
 [![Ol-me-chamo-Sophia-Katze-Muito-prazer-1.png](https://i.postimg.cc/5y7zVkTq/Ol-me-chamo-Sophia-Katze-Muito-prazer-1.png)](https://postimg.cc/0KSjGZ8b)
 
 🏳️‍⚧️ **Mulher Trans**
+
 💻 **Engenheira de Machine Learning & Dados com +10 anos de experiência em Dados**
-⚧️ **Líder em DE&I focada em Pessoas Trans**  
+
+⚧️ **Líder em DE&I focada em Pessoas Trans**
+
 Sou uma profissional apaixonada por construir **pipelines de dados escaláveis** e **sistemas de ML robustos**, com foco em Azure, Databricks e TensorFlow/PyTorch. Além do código, lidero a **TransDevs** – a maior comunidade trans em TI do Brasil, impactando a vida de **1.000+ pessoas Trans**.
 ---
 
