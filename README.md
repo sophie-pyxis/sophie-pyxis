@@ -2,19 +2,18 @@
 
 🏳️‍⚧️ **Mulher Trans**
 
-💻 **Engenheira de Machine Learning com +10 anos de experiência em Dados**
+💻 **Líder Técnica e Engenheira de Machine Learning com +10 anos de experiência em Dados**
 
 ⚧️ **Liderança em DE&I focada em Pessoas Trans**
 
 ---
 
-Sou uma profissional apaixonada por construir **pipelines de dados escaláveis** e **sistemas de ML robustos**, com foco em Azure, Databricks e TensorFlow/PyTorch. Além do código, ajudo a liderar **TransDevs** – a maior comunidade trans em TI do Brasil, impactando a vida de **1.000+ pessoas Trans**.
+Sou **Líder Técnica especializada em Machine Learning**, apaixonada por **orquestrar equipes na construção de pipelines de dados escaláveis** e **dirigir arquiteturas de ML em ambientes de missão crítica**, utilizando tecnologias como Azure, Databricks e TensorFlow/PyTorch. Além da liderança técnica, coordenei de maneira voluntária iniciativas de impacto social como **Diretora Executiva**: do **TransDevs** – **maior comunidade trans em TI do Brasil** – já transformando a trajetória de **1.000+ profissionais Trans**.
 
 ---
 
 ## 🌐 **Redes Sociais**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050a30?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/sophia-katze/)
-[![Bluesky](https://img.shields.io/badge/Bluesky-050a30?style=for-the-badge&logo=bluesky&logoColor=00FFFF)](https://bsky.app/profile/sophia.meoow.dev)
 
 ---
 
