@@ -1,4 +1,4 @@
-![Oi Sophie](https://postimg.cc/Tyz5Ksj0)
+![Oi Sophie](https://i.postimg.cc/B66TV9Xr/Ol-me-chamo-Sophia-Katze-Muito-prazer-2.png)
 
 🏳️‍⚧️ **Mulher Trans**
 
