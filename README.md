@@ -13,7 +13,7 @@ Sou **Líder Técnica especializada em Machine Learning**, apaixonada por **orqu
 ---
 
 ## 🌐 **Redes Sociais**:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050a30?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/sophia-katze/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050a30?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/sophie-pyxis/)
 
 ---
 
