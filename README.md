@@ -1,8 +1,8 @@
-[![Ol-me-chamo-Sophia-Katze-Muito-prazer-1.png](https://i.postimg.cc/5y7zVkTq/Ol-me-chamo-Sophia-Katze-Muito-prazer-1.png)](https://postimg.cc/0KSjGZ8b)
+[![Ol-me-chamo-Sophia-Katze-Muito-prazer-1.png]([https://i.postimg.cc/5y7zVkTq/Ol-me-chamo-Sophia-Katze-Muito-prazer-1.png](https://postimg.cc/Tyz5Ksj0))](https://postimg.cc/Tyz5Ksj0))
 
 🏳️‍⚧️ **Mulher Trans**
 
-💻 **Líder Técnica e Engenheira de Machine Learning com +10 anos de experiência em Dados**
+💻 **Líder Técnica e Engenheira de Machine Learning com +11 anos de experiência em Dados**
 
 ⚧️ **Liderança em DE&I focada em Pessoas Trans**
 
