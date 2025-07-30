@@ -8,7 +8,7 @@
 
 ---
 
-Sou **Líder Técnica especializada em Machine Learning**, apaixonada por **orquestrar equipes na construção de pipelines de dados escaláveis** e **dirigir arquiteturas de ML em ambientes de missão crítica**, utilizando tecnologias como Azure, Databricks e TensorFlow/PyTorch. Além da liderança técnica, coordenei de maneira voluntária iniciativas de impacto social como **Diretora Executiva** do **TransDevs** – **maior comunidade trans em TI do Brasil** – transformando a trajetória de **1.000+ profissionais Trans**.
+Sou **Líder Técnica especializada em Machine Learning**, apaixonada por **orquestrar equipes na construção de pipelines de dados escaláveis** e **dirigir arquiteturas de ML em ambientes de missão crítica**, utilizando tecnologias como Azure, Databricks e TensorFlow/PyTorch. Além da liderança técnica, coordenei de maneira voluntária iniciativas de impacto social como **Diretora Executiva** do **TransDevs** – **maior comunidade trans em TI do Brasil** – transformando a trajetória de **2.000+ profissionais Trans**.
 
 ---
 
