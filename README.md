@@ -8,7 +8,7 @@
 
 ---
 
-Sou **Líder Técnica especializada em Plataforma e Arquitetura Databricks, AWS e Azure **, apaixonada por **orquestrar equipes na construção de pipelines de CI/CD** e **dirigir arquiteturas em ambientes de missão crítica**.Além da liderança técnica, coordenei de maneira voluntária iniciativas de impacto social como **Diretora Executiva** do **TransDevs** – **maior comunidade trans em TI do Brasil** – transformando a trajetória de **2.500+ profissionais Trans**.
+Sou Líder Técnica especializada em Plataforma e Arquitetura Databricks, AWS e Azure, apaixonada por **orquestrar equipes na construção de pipelines de CI/CD** e **dirigir arquiteturas em ambientes de missão crítica**.Além da liderança técnica, coordenei de maneira voluntária iniciativas de impacto social como **Diretora Executiva** do **TransDevs** – **maior comunidade trans em TI do Brasil** – transformando a trajetória de **2.500+ profissionais Trans**.
 
 ---
 
