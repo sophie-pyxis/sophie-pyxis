@@ -2,13 +2,13 @@
 
 🏳️‍⚧️ **Mulher Trans**
 
-💻 **Líder Técnica e Engenheira de Machine Learning com +11 anos de experiência em Dados**
+💻 **Líder Técnica e Engenheira de Plataforma e Arquiteta de Sistemas com +11 anos de experiência**
 
 ⚧️ **Liderança em DE&I focada em Pessoas Trans**
 
 ---
 
-Sou **Líder Técnica especializada em Machine Learning**, apaixonada por **orquestrar equipes na construção de pipelines de dados escaláveis** e **dirigir arquiteturas de ML em ambientes de missão crítica**, utilizando tecnologias como Azure, Databricks e TensorFlow/PyTorch. Além da liderança técnica, coordenei de maneira voluntária iniciativas de impacto social como **Diretora Executiva** do **TransDevs** – **maior comunidade trans em TI do Brasil** – transformando a trajetória de **2.000+ profissionais Trans**.
+Sou **Líder Técnica especializada em Plataforma e Arquitetura Databricks, AWS e Azure *, apaixonada por **orquestrar equipes na construção de pipelines de CI/CD** e **dirigir arquiteturas em ambientes de missão crítica**.Além da liderança técnica, coordenei de maneira voluntária iniciativas de impacto social como **Diretora Executiva** do **TransDevs** – **maior comunidade trans em TI do Brasil** – transformando a trajetória de **2.500+ profissionais Trans**.
 
 ---
 
