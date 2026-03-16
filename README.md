@@ -2,7 +2,7 @@
 
 🏳️‍⚧️ **Mulher Trans**
 
-💻 **Líder Técnica e Engenheira de Plataforma e Arquiteta de Sistemas com +11 anos de experiência**
+💻 **Engenheira de Plataforma e MLOps Sênior com +11 anos de experiência**
 
 ⚧️ **Liderança em DE&I focada em Pessoas Trans**
 
