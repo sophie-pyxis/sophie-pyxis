@@ -10,7 +10,7 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-050a30?style=for-the-badge&logo=devdotto&logoColor=ff00ff)](https://dev.to/sophie-pyxis)
 [![GitHub](https://img.shields.io/badge/GitHub-050a30?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/sophie-pyxis)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sophie-pyxis&color=00ffff&style=for-the-badge&label=VISITAS+AO+PERFIL)
+![Profile Views](https://komarev.com/ghpvc/?username=sophie-pyxis&color=ff00ff&style=for-the-badge&label=VISITAS+AO+PERFIL)
 
 </div>
 
