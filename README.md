@@ -40,12 +40,6 @@ sophie = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sophie-pyxis&show_icons=true&include_all_commits=true&count_private=false&bg_color=050a30&title_color=ff00ff&text_color=00ffff&icon_color=87CEEB&border_color=1a1a4e&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophie-pyxis&layout=compact&include_all_commits=true&count_private=false&bg_color=050a30&title_color=ff00ff&text_color=00ffff&icon_color=87CEEB&border_color=1a1a4e&hide_border=false"/>
-
-</div>
 
 <div align="center">
 
