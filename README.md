@@ -183,7 +183,7 @@ sophie = {
 
 ### 🏛️ Architecture, Decision Records & MLOps
 
-[![ADR Hub · Architectural Decision Records](https://github-readme-stats.vercel.app/api/pin/?username=sophie-pyxis&repo=adr_hub&bg_color=050a30&title_color=ff00ff&text_color=00ffff&icon_color=87CEEB&border_color=1a1a4e)]([https://github.com/sophie-pyxis/adr_hub](https://github.com/sophie-pyxis/adr_hub))
+[![ADR Hub · Architectural Decision Records](https://github-readme-stats.vercel.app/api/pin/?username=sophie-pyxis&repo=adr_hub&bg_color=050a30&title_color=ff00ff&text_color=00ffff&icon_color=87CEEB&border_color=1a1a4e)](https://github.com/sophie-pyxis/adr_hub)
 
 **`adr_hub`** — Centralised hub of Architectural Decision Records (ADRs) documenting the trade-offs and rationale behind significant cloud, MLOps and platform decisions. Living artefact of how I practise Enterprise and Solutions Architecture in production: alternatives considered, drivers, consequences, review history — aligned to TOGAF, DDD and C4 Model. The reference for what an architect-led governance practice looks like end-to-end.
 
