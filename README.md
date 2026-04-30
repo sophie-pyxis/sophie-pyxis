@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=720&lines=Enterprise+Solutions+Architect+%C2%B7+AI+%26+Cloud+Platform;Grupo+Fleury+%C2%B7+~600+people+shaped+by+architecture;AWS+%7C+Azure+%7C+GCP+%7C+Databricks+%7C+Terraform+%7C+Kubernetes;MLOps+%7C+FinOps+%7C+Data+Governance+%7C+AI+Platform;11%2B+years+%C2%B7+5+regulated+environments+%C2%B7+HMRC+%C2%B7+BACEN+%C2%B7+SUSEP)](https://git.io/typing-svg)
 
-🏳️‍⚧️ **Trans Woman** &nbsp;|&nbsp; 🏛️ **Enterprise Solutions Architect · 11+ years** &nbsp;|&nbsp; ⚧️ **DE&I Leadership — TransDevs**
+🏳️‍⚧️ **Trans Woman** &nbsp;|&nbsp; 🏛️ **Senior Enterprise Solutions Architect · 11+ years** &nbsp;|&nbsp; ⚧️ **DE&I Leadership — TransDevs**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050a30?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/sophie-pyxis/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-050a30?style=for-the-badge&logo=githubpages&logoColor=ff00ff)](https://sophie-pyxis.github.io)
@@ -19,9 +19,9 @@
 
 ## 🏛️ About me
 
-**Enterprise Solutions Architect** at **Grupo Fleury** — one of Brazil's largest health conglomerates — with over **11 years of experience** designing cloud platforms, AI infrastructure and MLOps ecosystems in highly regulated environments: **HMRC** (United Kingdom), **BACEN** and **SUSEP** (Brazil).
+**Senior Enterprise Solutions Architect - IT, Digital & Innovation** at **Grupo Fleury** — one of Brazil's largest health conglomerates — with over **11 years of experience** designing cloud platforms, AI infrastructure and MLOps ecosystems in highly regulated environments: **HMRC** (United Kingdom), **BACEN** and **SUSEP** (Brazil).
 
-At Fleury I operate as the reference architecture function for the Digital area, with decisions that shape how **~600 people** — tech leads, engineers, product managers and C-level — build and evolve the platform. First technical hire of the corporate architecture practice, reporting to the Corporate Architecture & AI Manager.
+At Grupo Fleury I operate as the reference architecture function for the Digital area, with decisions that shape how **~600 people** — tech leads, engineers, product managers and C-level — build and evolve the platform. First technical hire of the corporate architecture practice, reporting to the Corporate Architecture & AI Manager.
 
 My work lives at the intersection of **Enterprise Architecture**, **Solutions Architecture**, **AI Governance** and **Platform Strategy** — translating organisational capability goals into cloud-native, audit-ready architectures with defensible TCO rationale and measurable business outcomes.
 
@@ -36,7 +36,7 @@ My work lives at the intersection of **Enterprise Architecture**, **Solutions Ar
 
 ### Track record
 
-🏥 **Grupo Fleury** — Enterprise Solutions Architect for the Digital area of Brazil's leading health diagnostics conglomerate. Sole architect of the corporate architecture function, responsible for decisions that directly shape how ~600 Digital professionals — from engineers to C-level — design and deliver products and platforms.
+🏥 **Grupo Fleury** — Senior Enterprise Solutions Architect for the IT, Digital & Innovation area of Brazil's leading health diagnostics conglomerate. Sole architect of the corporate architecture function, responsible for decisions that directly shape how ~600 Digital professionals — from engineers to C-level — design and deliver products and platforms.
 
 🏦 **Natura / Emana Pay** — Defined MLOps v2 architecture for the centralised model deployment backbone of Emana Pay's financial payments core: 30+ production models, 6.3M end-users, dual-jurisdiction (Brazil/Hispanic markets), full observability via Unity Catalog.
 
@@ -48,12 +48,12 @@ My work lives at the intersection of **Enterprise Architecture**, **Solutions Ar
 
 ```python
 sophie = {
-    "title":        "Enterprise Solutions Architect",
+    "title":        "Senior Enterprise Solutions Architect",
     "company":      "Grupo Fleury 🏥",
     "location":     "Piracicaba, São Paulo, Brazil 🇧🇷",
     "experience":   "11+ years · 5 regulated environments",
-    "regulated":    ["HMRC 🇬🇧", "BACEN 🇧🇷", "SUSEP 🇧🇷"],
-    "scope":        "~600 people shaped by architecture decisions (Digital area)",
+    "regulated":    ["HMRC 🇬🇧", "BACEN 🇧🇷", "SUSEP 🇧🇷", "ANVISA 🇧🇷"],
+    "scope":        "~600 people shaped by architecture decisions (IT, Digital & Innovation areas)",
     "specialities": [
                        "Enterprise Architecture",
                        "Solutions Architecture",
@@ -166,7 +166,7 @@ sophie = {
 
 | Period | Company | Role | Core Stack |
 |---|---|---|---|
-| **May 2026 — Present** | 🏥 **Grupo Fleury** | Enterprise Solutions Architect | AWS · Azure · GCP · Databricks · Terraform · Kubernetes |
+| **May 2026 — Present** | 🏥 **Grupo Fleury** | Senior Enterprise Solutions Architect — IT, Digital & Innovation | AWS · Azure · GCP · Databricks |
 | **Jun 2025 — Apr 2026** | 🌿 **Natura / Emana Pay** | Enterprise Solutions Architect — AI & MLOps | AWS · Databricks · Unity Catalog · Jenkins · MLFlow · Datadog |
 | **Aug 2024 — Jun 2025** | 🛡️ **Zurich Santander Insurance** | Enterprise Solutions Architect — AI & MLOps | Azure · Databricks · Azure DevOps · Unity Catalog · MLFlow · PyTest |
 | **Jan 2024 — Aug 2024** | 🍺 **AB InBev Global Martech** | Enterprise Solutions Architect — Global Martech | Azure · Databricks · Delta Lake · Snowflake · FastAPI |
