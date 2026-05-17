@@ -171,8 +171,7 @@ sophie = {
 | **Aug 2024 — Jun 2025** | 🛡️ **Zurich Santander Insurance** | Enterprise Solutions Architect — AI & MLOps | Azure · Databricks · Azure DevOps · Unity Catalog · MLFlow · PyTest |
 | **Jan 2024 — Aug 2024** | 🍺 **AB InBev Global Martech** | Enterprise Solutions Architect — Global Martech | Azure · Databricks · Delta Lake · Snowflake · FastAPI |
 | **Feb 2022 — Jan 2024** | 🇬🇧 **Pie (UK Fintech · HMRC)** | Senior Cloud & Platform Solutions Architect | AWS · Lambda · API Gateway · DynamoDB · ECR · SageMaker · Terraform · GitHub Actions |
-| **Jun 2021 — Feb 2022** | 🌲 **OPT (Suzano)** | Machine Learning Engineer | TensorFlow · Keras · Azure ML · Azure IoT Hub · Power BI |
-| **Mar 2021 — Jun 2021** | 🐔 **@Tech (São Salvador Alimentos)** | Data Engineer | Python · Scikit-learn · OR Tools · IoT · Azure Functions |
+| **Mar 2021 — Feb 2022** | 🌲 **OPT (Suzano)** | Machine Learning Engineer | TensorFlow · Keras · Azure ML · Azure IoT Hub · Power BI |
 | **Jan 2018 — Dec 2020** | 🗺️ **TRGEO** | Junior Python Data & Automation Engineer | Python · GeoPandas · Pix4D · ArcGIS · QGIS · Mapbox |
 | **Jan 2017 — Jan 2018** | 🔭 **IAG-USP (CNPq)** | Data Researcher — PIBIC | Python · Pandas · Tkinter · Scientific Computing |
 | **Apr 2014 — Dec 2016** | 🧪 **Unicamp (CNPq)** | Data Researcher — PIBIC-EM | Python · Pandas · ANOVA · Statistics |
