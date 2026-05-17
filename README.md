@@ -173,9 +173,8 @@ sophie = {
 | **Feb 2022 — Jan 2024** | 🇬🇧 **Pie (UK Fintech · HMRC)** | Senior Cloud & Platform Solutions Architect | AWS · Lambda · API Gateway · DynamoDB · ECR · SageMaker · Terraform · GitHub Actions |
 | **Mar 2021 — Feb 2022** | 🌲 **OPT (Suzano)** | Machine Learning Engineer | TensorFlow · Keras · Azure ML · Azure IoT Hub · Power BI |
 | **Jan 2018 — Dec 2020** | 🗺️ **TRGEO** | Junior Python Data & Automation Engineer | Python · GeoPandas · Pix4D · ArcGIS · QGIS · Mapbox |
-| **Jan 2017 — Jan 2018** | 🔭 **IAG-USP (CNPq)** | Data Researcher — PIBIC | Python · Pandas · Tkinter · Scientific Computing |
-| **Apr 2014 — Dec 2016** | 🧪 **Unicamp (CNPq)** | Data Researcher — PIBIC-EM | Python · Pandas · ANOVA · Statistics |
-
+| **Apr 2014 — Jan 2018** | 🔭 **IAG-USP and UNICAMP (CNPq)** | Data Researcher — PIBIC | Python · Pandas · Tkinter · Scientific Computing |
+                          
 ---
 
 ## 📌 Featured Projects
