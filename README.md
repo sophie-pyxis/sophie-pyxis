@@ -19,9 +19,9 @@
 
 ## 🏛️ About me
 
-**Senior Enterprise Solutions Architect - IT, Digital & Innovation** at **Grupo Fleury** — one of Brazil's largest health conglomerates — with over **11 years of experience** designing cloud platforms, AI infrastructure and MLOps ecosystems in highly regulated environments: **HMRC** (United Kingdom), **BACEN** and **SUSEP** (Brazil).
+**Senior Enterprise Solutions Architect - IT, Digital & Innovation** at **Grupo Fleury** — one of Brazil's largest health conglomerates — with over **11 years of experience** designing cloud platforms, AI infrastructure and MLOps ecosystems in highly regulated environments: **HMRC** (United Kingdom), **ANVISA** (Brazil).
 
-At Grupo Fleury I operate as the reference architecture function for the Digital area, with decisions that shape how **~600 people** — tech leads, engineers, product managers and C-level — build and evolve the platform. First technical hire of the corporate architecture practice, reporting to the Corporate Architecture & AI Manager.
+At Grupo Fleury I operate as the reference architecture function for the Digital area, with decisions that shape how **~630 people** — tech leads, engineers, product managers and C-level — build and evolve the platform. First technical hire of the corporate architecture practice, reporting to the Corporate Architecture & AI Manager.
 
 My work lives at the intersection of **Enterprise Architecture**, **Solutions Architecture**, **AI Governance** and **Platform Strategy** — translating organisational capability goals into cloud-native, audit-ready architectures with defensible TCO rationale and measurable business outcomes.
 
@@ -36,11 +36,7 @@ My work lives at the intersection of **Enterprise Architecture**, **Solutions Ar
 
 ### Track record
 
-🏥 **Grupo Fleury** — Senior Enterprise Solutions Architect for the IT, Digital & Innovation area of Brazil's leading health diagnostics conglomerate. Sole architect of the corporate architecture function, responsible for decisions that directly shape how ~600 Digital professionals — from engineers to C-level — design and deliver products and platforms.
-
-🏦 **Natura / Emana Pay** — Defined MLOps v2 architecture for the centralised model deployment backbone of Emana Pay's financial payments core: 30+ production models, 6.3M end-users, dual-jurisdiction (Brazil/Hispanic markets), full observability via Unity Catalog.
-
-🛡️ **Zurich Santander Insurance** — Designed the MLOps and AI platform from zero for a dual-regulated insurer (BACEN/SUSEP): ARB governance, Compliance-by-Design CI/CD, and a **60% reduction in model deployment time-to-market** across 72.8M Santander Brazil clients.
+🏥 **Grupo Fleury** — Senior Enterprise Solutions Architect for the IT, Digital & Innovation area of Brazil's leading health diagnostics conglomerate. Sole architect of the corporate architecture function, responsible for decisions that directly shape how ~630 Digital professionals — from engineers to C-level — design and deliver products and platforms.
 
 🌎 **AB InBev Global Martech** — Architected the global data platform across **23 markets**, consumed by VPs of Marketing for multi-billion USD media allocation decisions, delivering **45% infrastructure cost reduction** through continuous FinOps governance.
 
@@ -52,8 +48,8 @@ sophie = {
     "company":      "Grupo Fleury 🏥",
     "location":     "Piracicaba, São Paulo, Brazil 🇧🇷",
     "experience":   "11+ years · 5 regulated environments",
-    "regulated":    ["HMRC 🇬🇧", "BACEN 🇧🇷", "SUSEP 🇧🇷", "ANVISA 🇧🇷"],
-    "scope":        "~600 people shaped by architecture decisions (IT, Digital & Innovation areas)",
+    "regulated":    ["HMRC 🇬🇧", "ANVISA 🇧🇷"],
+    "scope":        "~630 people shaped by architecture decisions (IT, Digital & Innovation areas)",
     "specialities": [
                        "Enterprise Architecture",
                        "Solutions Architecture",
@@ -66,7 +62,7 @@ sophie = {
                        "API Design",
                        "Domain-Driven Design",
                     ],
-    "cloud":        ["AWS", "Microsoft Azure", "GCP", "Databricks"],
+    "cloud":        ["AWS", "Microsoft Azure", "GCP", "Databricks", "Oracle"],
     "iac":          ["Terraform", "Docker", "Kubernetes"],
     "ci_cd":        ["GitHub Actions", "Azure DevOps", "Jenkins", "Bitbucket"],
     "languages":    [
@@ -166,13 +162,11 @@ sophie = {
 
 | Period | Company | Role | Core Stack |
 |---|---|---|---|
-| **May 2026 — Present** | 🏥 **Grupo Fleury** | Senior Enterprise Solutions Architect — IT, Digital & Innovation | AWS · Azure · GCP · Databricks |
-| **Jun 2025 — Apr 2026** | 🌿 **Natura / Emana Pay** | Enterprise Solutions Architect — AI & MLOps | AWS · Databricks · Unity Catalog · Jenkins · MLFlow · Datadog |
-| **Aug 2024 — Jun 2025** | 🛡️ **Zurich Santander Insurance** | Enterprise Solutions Architect — AI & MLOps | Azure · Databricks · Azure DevOps · Unity Catalog · MLFlow · PyTest |
-| **Jan 2024 — Aug 2024** | 🍺 **AB InBev Global Martech** | Enterprise Solutions Architect — Global Martech | Azure · Databricks · Delta Lake · Snowflake · FastAPI |
+| **Jun 2025 — Present** | 🏥 **Grupo Fleury** | Senior Enterprise Solutions Architect — IT, Digital & Innovation | AWS · Azure · GCP · Databricks |
+| **Jan 2024 — Jun 2025** | 🍺 **AB InBev Global Martech** | Enterprise Solutions Architect — Global Martech | Azure · Databricks · Delta Lake · Snowflake · FastAPI |
 | **Feb 2022 — Jan 2024** | 🇬🇧 **Pie (UK Fintech · HMRC)** | Senior Cloud & Platform Solutions Architect | AWS · Lambda · API Gateway · DynamoDB · ECR · SageMaker · Terraform · GitHub Actions |
 | **Mar 2021 — Feb 2022** | 🌲 **OPT (Suzano)** | Machine Learning Engineer | TensorFlow · Keras · Azure ML · Azure IoT Hub · Power BI |
-| **Jan 2018 — Dec 2020** | 🗺️ **TRGEO** | Junior Python Data & Automation Engineer | Python · GeoPandas · Pix4D · ArcGIS · QGIS · Mapbox |
+| **Jan 2018 — Dec 2020** | 🗺️ **TRGEO** | Data Engineer | Python · GeoPandas · Pix4D · ArcGIS · QGIS · Mapbox |
 | **Apr 2014 — Jan 2018** | 🔭 **IAG-USP and UNICAMP (CNPq)** | Data Researcher — PIBIC | Python · Pandas · Tkinter · Scientific Computing |
                           
 ---
