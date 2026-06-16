@@ -47,8 +47,8 @@ sophie = {
     "title":        "Senior Enterprise Solutions Architect",
     "company":      "Grupo Fleury 🏥",
     "location":     "Piracicaba, São Paulo, Brazil 🇧🇷",
-    "experience":   "11+ years · 5 regulated environments",
-    "regulated":    ["HMRC 🇬🇧", "ANVISA 🇧🇷"],
+    "experience":   "11+ years · 3 regulated environments",
+    "regulated":    ["HMRC 🇬🇧", "LGPD 🇧🇷", "ANVISA 🇧🇷"],
     "scope":        "~630 people shaped by architecture decisions (IT, Digital & Innovation areas)",
     "specialities": [
                        "Enterprise Architecture",
