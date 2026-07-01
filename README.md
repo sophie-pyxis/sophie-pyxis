@@ -221,6 +221,8 @@ sophie = {
 
 ## 🎓 Education & Certifications
 
+🎓 **Master of Business Administration (MBA)** - Danube University of Krems, Austria (2024 - 2026)
+
 🎓 **Foundation Degree (Tecnólogo) in Systems Analysis and Development** — Universidade Cruzeiro do Sul (2021–2023)
 
 🎓 **BSc in Geophysics** — University of São Paulo (USP) (2017–2020)
