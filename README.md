@@ -2,9 +2,9 @@
 
 ![header](https://i.postimg.cc/B66TV9Xr/Ol-me-chamo-Sophia-Katze-Muito-prazer-2.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=720&lines=Enterprise+Solutions+Architect+%C2%B7+AI+%26+Cloud+Platform;Grupo+Fleury+%C2%B7+~600+people+shaped+by+architecture;AWS+%7C+Azure+%7C+GCP+%7C+Databricks+%7C+Terraform+%7C+Kubernetes;MLOps+%7C+FinOps+%7C+Data+Governance+%7C+AI+Platform;11%2B+years+%C2%B7+5+regulated+environments+%C2%B7+HMRC+%C2%B7+BACEN+%C2%B7+SUSEP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=720&lines=Principal+AI+Architect+%C2%B7+AI+%26+Cloud+Platform;Pupila+Brand+Studio+%C2%B7+Enterprise+AI+%26+Data+Architecture;AWS+%7C+Azure+%7C+GCP+%7C+Databricks+%7C+Terraform+%7C+Kubernetes;MLOps+%7C+FinOps+%7C+Data+Governance+%7C+AI+Platform;11%2B+years+%C2%B7+5+regulated+environments+%C2%B7+HMRC+%C2%B7+ANVISA+%C2%B7+LGPD)](https://git.io/typing-svg)
 
-🏳️‍⚧️ **Trans Woman** &nbsp;|&nbsp; 🏛️ **Senior Enterprise Solutions Architect · 11+ years** &nbsp;|&nbsp; ⚧️ **DE&I Leadership — TransDevs**
+🏳️‍⚧️ **Trans Woman** &nbsp;|&nbsp; 🏛️ **Principal AI Architect · 11+ years** &nbsp;|&nbsp; ⚧️ **Former DE&I Leadership — DiversificaDev / TransDevs**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050a30?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/sophie-pyxis/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-050a30?style=for-the-badge&logo=githubpages&logoColor=ff00ff)](https://sophie-pyxis.github.io)
@@ -19,9 +19,11 @@
 
 ## 🏛️ About me
 
-**Senior Enterprise Solutions Architect - IT, Digital & Innovation** at **Grupo Fleury** — one of Brazil's largest health conglomerates — with over **11 years of experience** designing cloud platforms, AI infrastructure and MLOps ecosystems in highly regulated environments: **HMRC** (United Kingdom), **ANVISA** (Brazil).
+**Principal AI Architect** at **Pupila Brand Studio** — an AI-powered branding platform generating unlimited on-brand creative assets — with over **11 years of experience** designing cloud platforms, AI infrastructure and MLOps ecosystems in highly regulated environments: **HMRC** (United Kingdom), **ANVISA** (Brazil).
 
-At Grupo Fleury I operate as the reference architecture function for the Digital area, with decisions that shape how **~630 people** — tech leads, engineers, product managers and C-level — build and evolve the platform. First technical hire of the corporate architecture practice, reporting to the Corporate Architecture & AI Manager.
+At Pupila, I'm the team's principal reference point for architecture and AI, owning technical direction end to end while staying hands-on with the code, and reporting directly to the CTO/Head of Technology and the CEO.
+
+Previously, at **Grupo Fleury** — one of Brazil's largest health conglomerates — I was the first Solutions Architect hired into the corporate architecture practice, becoming the primary architecture authority for **~630 people** across the IT, Digital & Innovation area, reporting to the Corporate Architecture & AI Manager.
 
 My work lives at the intersection of **Enterprise Architecture**, **Solutions Architecture**, **AI Governance** and **Platform Strategy** — translating organisational capability goals into cloud-native, audit-ready architectures with defensible TCO rationale and measurable business outcomes.
 
@@ -36,20 +38,22 @@ My work lives at the intersection of **Enterprise Architecture**, **Solutions Ar
 
 ### Track record
 
-🏥 **Grupo Fleury** — Senior Enterprise Solutions Architect for the IT, Digital & Innovation area of Brazil's leading health diagnostics conglomerate. Sole architect of the corporate architecture function, responsible for decisions that directly shape how ~630 Digital professionals — from engineers to C-level — design and deliver products and platforms.
+🎨 **Pupila Brand Studio** — Principal AI Architect for an AI-powered branding platform. Principal reference point for architecture and AI across the engineering team, owning technical direction while staying hands-on with implementation, reporting directly to the CTO and CEO.
 
-🌎 **AB InBev Global Martech** — Architected the global data platform across **23 markets**, consumed by VPs of Marketing for multi-billion USD media allocation decisions, delivering **45% infrastructure cost reduction** through continuous FinOps governance.
+🏥 **Grupo Fleury** — First Solutions Architect hired into the corporate architecture practice of Brazil's leading health diagnostics conglomerate, responsible for decisions that directly shaped how ~630 Digital professionals — from engineers to C-level — designed and delivered products and platforms.
 
-🇬🇧 **Pie (UK Fintech)** — Co-architected the AWS serverless platform that achieved **formal HMRC software developer recognition** and ITSA integration certification. Full Making Tax Digital compliance from Day 1.
+🌎 **AB InBev Global Martech** — *Solutions Architect – AI/ML & Data Platform.* Architected the global data platform across **23 markets**, consumed by VPs of Marketing for multi-billion USD media allocation decisions, delivering **45% infrastructure cost reduction** through continuous FinOps governance.
+
+🇬🇧 **Pie (UK Fintech)** — *Solutions Architect – AI/ML & Data Platform.* Co-architected the AWS serverless platform that achieved **formal HMRC software developer recognition** and ITSA integration certification. Full Making Tax Digital compliance from Day 1.
 
 ```python
 sophie = {
-    "title":        "Senior Enterprise Solutions Architect",
-    "company":      "Grupo Fleury 🏥",
+    "title":        "Principal AI Architect",
+    "company":      "Pupila Brand Studio 🎨",
     "location":     "Piracicaba, São Paulo, Brazil 🇧🇷",
     "experience":   "11+ years · 3 regulated environments",
     "regulated":    ["HMRC 🇬🇧", "LGPD 🇧🇷", "ANVISA 🇧🇷"],
-    "scope":        "~630 people shaped by architecture decisions (IT, Digital & Innovation areas)",
+    "previously":   "~630 people shaped by architecture decisions at Grupo Fleury (IT, Digital & Innovation)",
     "specialities": [
                        "Enterprise Architecture",
                        "Solutions Architecture",
@@ -69,7 +73,7 @@ sophie = {
                        "Portuguese 🇧🇷 (native)",
                        "English 🇬🇧 (C2 · EF SET)",
                     ],
-    "community":    "TransDevs — 2,500+ trans tech professionals",
+    "community":    "Former Executive Director, DiversificaDev — scaled the TransDevs Python programme to 2,500+ trans tech professionals reached",
     "fun_fact":     "Silver Medals at the Brazilian Physics and Astronomy Olympiads 🏅",
 }
 ```
@@ -162,13 +166,14 @@ sophie = {
 
 | Period | Company | Role | Core Stack |
 |---|---|---|---|
-| **Jun 2025 — Present** | 🏥 **Grupo Fleury** | Senior Enterprise Solutions Architect — IT, Digital & Innovation | AWS · Azure · GCP · Databricks |
-| **Jan 2024 — Jun 2025** | 🍺 **AB InBev Global Martech** | Enterprise Solutions Architect — Global Martech | Azure · Databricks · Delta Lake · Snowflake · FastAPI |
-| **Feb 2022 — Jan 2024** | 🇬🇧 **Pie (UK Fintech · HMRC)** | Senior Cloud & Platform Solutions Architect | AWS · Lambda · API Gateway · DynamoDB · ECR · SageMaker · Terraform · GitHub Actions |
+| **Jul 2026 — Present** | 🎨 **Pupila Brand Studio** | Principal AI Architect | AI/ML · Cloud Architecture · Enterprise AI Governance |
+| **Jun 2025 — Jul 2026** | 🏥 **Grupo Fleury** | Senior Enterprise Solutions Architect — IT, Digital & Innovation (B2B & B2C) | AWS · Azure · GCP · Databricks |
+| **Jan 2024 — Jun 2025** | 🍺 **AB InBev Global Martech** | Solutions Architect — AI/ML & Data Platform | Azure · Databricks · Delta Lake · Snowflake · FastAPI |
+| **Feb 2022 — Jan 2024** | 🇬🇧 **Pie (UK Fintech · HMRC)** | Solutions Architect — AI/ML & Data Platform | AWS · Lambda · API Gateway · DynamoDB · ECR · SageMaker · Terraform · GitHub Actions |
 | **Mar 2021 — Feb 2022** | 🌲 **OPT (Suzano)** | Machine Learning Engineer | TensorFlow · Keras · Azure ML · Azure IoT Hub · Power BI |
 | **Jan 2018 — Dec 2020** | 🗺️ **TRGEO** | Data Engineer | Python · GeoPandas · Pix4D · ArcGIS · QGIS · Mapbox |
 | **Apr 2014 — Jan 2018** | 🔭 **IAG-USP and UNICAMP (CNPq)** | Data Researcher — PIBIC | Python · Pandas · Tkinter · Scientific Computing |
-                          
+
 ---
 
 ## 📌 Featured Projects
@@ -221,7 +226,7 @@ sophie = {
 
 ## 🎓 Education & Certifications
 
-🎓 **Master of Business Administration (MBA)** — Danube University of Krems, Austria (2024 - 2026)
+🎓 **Master of Business Administration (MBA), Enterprise Architecture** — Universität für Weiterbildung Krems, Austria (2024 – 2026)
 
 🎓 **Foundation Degree (Tecnólogo) in Systems Analysis and Development** — Universidade Cruzeiro do Sul (2021–2023)
 
