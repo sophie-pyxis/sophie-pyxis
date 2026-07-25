@@ -23,7 +23,7 @@
 
 At Pupila, I'm the team's principal reference point for architecture and AI, owning technical direction end to end while staying hands-on with the code, and reporting directly to the CTO/Head of Technology and the CEO.
 
-Previously, at **Grupo Fleury** — one of Brazil's largest health conglomerates — I was the first Solutions Architect hired into the corporate architecture practice, becoming the primary architecture authority for **~630 people** across the IT, Digital & Innovation area, reporting to the Corporate Architecture & AI Manager.
+Previously, at **Grupo Fleury** — one of Brazil's largest health conglomerates — I was the first Enterprise Architect hired into the corporate architecture practice, becoming the primary architecture authority for **~630 people** across the IT, Digital & Innovation area, reporting to the Corporate Architecture & AI Manager.
 
 My work lives at the intersection of **Enterprise Architecture**, **Solutions Architecture**, **AI Governance** and **Platform Strategy** — translating organisational capability goals into cloud-native, audit-ready architectures with defensible TCO rationale and measurable business outcomes.
 
@@ -40,7 +40,7 @@ My work lives at the intersection of **Enterprise Architecture**, **Solutions Ar
 
 🎨 **Pupila Brand Studio** — Principal AI Architect for an AI-powered branding platform. Principal reference point for architecture and AI across the engineering team, owning technical direction while staying hands-on with implementation, reporting directly to the CTO and CEO.
 
-🏥 **Grupo Fleury** — First Solutions Architect hired into the corporate architecture practice of Brazil's leading health diagnostics conglomerate, responsible for decisions that directly shaped how ~630 Digital professionals — from engineers to C-level — designed and delivered products and platforms.
+🏥 **Grupo Fleury** — First Enterprise Architect hired into the corporate architecture practice of Brazil's leading health diagnostics conglomerate, responsible for decisions that directly shaped how ~630 Digital professionals — from engineers to C-level — designed and delivered products and platforms.
 
 🌎 **AB InBev Global Martech** — *Solutions Architect – AI/ML & Data Platform.* Architected the global data platform across **23 markets**, consumed by VPs of Marketing for multi-billion USD media allocation decisions, delivering **45% infrastructure cost reduction** through continuous FinOps governance.
 
@@ -167,7 +167,7 @@ sophie = {
 | Period | Company | Role | Core Stack |
 |---|---|---|---|
 | **Jul 2026 — Present** | 🎨 **Pupila Brand Studio** | Principal AI Architect | AI/ML · Cloud Architecture · Enterprise AI Governance |
-| **Jun 2025 — Jul 2026** | 🏥 **Grupo Fleury** | Senior Enterprise Solutions Architect — IT, Digital & Innovation (B2B & B2C) | AWS · Azure · GCP · Databricks |
+| **Jun 2025 — Jul 2026** | 🏥 **Grupo Fleury** | Senior Enterprise Architect — IT, Digital & Innovation (B2B & B2C) | AWS · Azure · GCP · Databricks |
 | **Jan 2024 — Jun 2025** | 🍺 **AB InBev Global Martech** | Solutions Architect — AI/ML & Data Platform | Azure · Databricks · Delta Lake · Snowflake · FastAPI |
 | **Feb 2022 — Jan 2024** | 🇬🇧 **Pie (UK Fintech · HMRC)** | Solutions Architect — AI/ML & Data Platform | AWS · Lambda · API Gateway · DynamoDB · ECR · SageMaker · Terraform · GitHub Actions |
 | **Mar 2021 — Feb 2022** | 🌲 **OPT (Suzano)** | Machine Learning Engineer | TensorFlow · Keras · Azure ML · Azure IoT Hub · Power BI |
