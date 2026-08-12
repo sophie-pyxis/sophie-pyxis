@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=760&lines=Manager%2C+Data+%26+AI+%C2%B7+Pupila+Brand+Studio;Enterprise+Architecture+%C2%B7+Data+%26+AI+Strategy+%C2%B7+Governance;Data+Mesh+%7C+Lakehouse+%7C+MLOps+%7C+LLMOps+%7C+Multi-agent+AI;AWS+%7C+Azure+%7C+GCP+%7C+Oracle+%7C+Databricks+%7C+Terraform;11%2B+years+%C2%B7+3+regulated+orgs+%C2%B7+ANVISA+%7C+LGPD+%7C+GDPR+%7C+HMRC)](https://git.io/typing-svg)
 
-🏳️‍⚧️ **Trans Woman** &nbsp;|&nbsp; 🏛️ **Manager, Data & AI · 11+ years** &nbsp;|&nbsp; ⚧️ **Former Executive Director — DiversificaDev / TransDevs**
+🏳️‍⚧️ **Trans Woman** &nbsp;|&nbsp; 🏛️ **Manager - Data, Analytic & AI · 11+ years** &nbsp;|&nbsp; ⚧️ **Former Executive Director — DiversificaDev / TransDevs**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050a30?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/sophie-pyxis/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-050a30?style=for-the-badge&logo=githubpages&logoColor=ff00ff)](https://sophie-pyxis.github.io)
@@ -19,7 +19,7 @@
 
 ## 🏛️ About me
 
-**Manager, Data & AI** at **Pupila Brand Studio** — an AI-powered branding platform that generates unlimited on-brand creative assets (photos, videos, illustrations) while holding strict brand consistency for marketing and creative teams across multiple countries.
+**Manager - Data, Analytics & AI** at **Pupila Brand Studio** — an AI-powered brand intelligence platform that generates unlimited on-brand creative assets (photos, videos, illustrations) while holding strict brand consistency for marketing and creative teams across multiple countries.
 
 I don't just design architecture practices — I build the ones tech leads and engineers actually follow. Over **11+ years**, I've stood up Architecture Review Boards from zero at **three regulated organisations**, mentored tech leads and engineering coordinators on architecture decisions, and advised CIOs, CTOs, VPs and Directors on multi-million dollar technology investments across **healthcare diagnostics**, **global Martech** and **UK fintech**.
 
@@ -40,7 +40,7 @@ Before Pupila, I was at **Grupo Fleury** — one of Brazil's largest healthcare 
 
 ### Track record
 
-🎨 **Pupila Brand Studio** — Manager, Data & AI (previously Principal AI Architect). Own the Data & AI function and act as the AI reference point for the entire engineering organisation, reporting directly to CTO and CEO — architecture ownership combined with hands-on production delivery.
+🎨 **Pupila Brand Studio** — Manager - Data, Analytics & AI (previously Principal AI Architect). Own the Data & AI function and act as the AI reference point for the entire engineering organisation, reporting directly to CTO and CEO — architecture ownership combined with hands-on production delivery.
 
 🏥 **Grupo Fleury** — First Enterprise Architect in the corporate practice. Owned enterprise architecture governance across a **419+ system portfolio** supporting **~USD 1.6B** annual net revenue and **~USD 104M** technology budget; primary architecture authority and mentor for tech leads across **~630 engineers**, under ANVISA mandate.
 
@@ -54,11 +54,11 @@ Before Pupila, I was at **Grupo Fleury** — one of Brazil's largest healthcare 
 
 ```python
 sophie = {
-    "title":        "Manager, Data & AI",
+    "title":        "Manager - Data, Analytics & AI",
     "company":      "Pupila Brand Studio 🎨",
     "location":     "Piracicaba, São Paulo, Brazil 🇧🇷",
     "experience":   "11+ years · 3 regulated organisations",
-    "regulated":    ["ANVISA 🇧🇷", "LGPD 🇧🇷", "GDPR 🇪🇺", "HMRC 🇬🇧"],
+    "regulated":    ["ANVISA 🇧🇷", "CONAR 🇧🇷" "LGPD 🇧🇷", "GDPR 🇪🇺", "HMRC 🇬🇧"],
     "scale":        {
                        "engineers_influenced": "~630 (Grupo Fleury)",
                        "systems_governed":     "419+",
@@ -182,7 +182,7 @@ sophie = {
 
 | Period | Company | Role | Core Stack |
 |---|---|---|---|
-| **Aug 2026 — Present** | 🎨 **Pupila Brand Studio** | Manager, Data & AI | Generative AI · Data & AI Strategy · Enterprise AI Governance |
+| **Aug 2026 — Present** | 🎨 **Pupila Brand Studio** | Manager — Data, Analytics & AI | Generative AI · Data & AI Strategy · Enterprise AI Governance |
 | **Jun 2026 — Aug 2026** | 🎨 **Pupila Brand Studio** | Principal AI Architect | AI/ML · Cloud Architecture · MLOps/LLMOps |
 | **Jun 2025 — Jun 2026** | 🏥 **Grupo Fleury** | Senior Enterprise Architect — IT, Digital & Innovation (B2B & B2C) | AWS · Azure · GCP · Oracle · Databricks · ArchiMate · TOGAF |
 | **Jan 2024 — Jun 2025** | 🍺 **AB InBev Global Martech** | Solutions Architect — AI/ML & Data Platform | Azure · Databricks · Delta Lake · Snowflake · MLflow · FastAPI |
