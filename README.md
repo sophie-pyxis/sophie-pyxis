@@ -2,7 +2,7 @@
 
 ![header](https://i.postimg.cc/B66TV9Xr/Ol-me-chamo-Sophia-Katze-Muito-prazer-2.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=760&lines=Manager%2C+Data+%26+AI+%C2%B7+Pupila+Brand+Studio;Enterprise+Architecture+%C2%B7+Data+%26+AI+Strategy+%C2%B7+Governance;Data+Mesh+%7C+Lakehouse+%7C+MLOps+%7C+LLMOps+%7C+Multi-agent+AI;AWS+%7C+Azure+%7C+GCP+%7C+Oracle+%7C+Databricks+%7C+Terraform;11%2B+years+%C2%B7+3+regulated+orgs+%C2%B7+ANVISA+%7C+LGPD+%7C+GDPR+%7C+HMRC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=760&lines=Manager+-+Data%2C+Analytics+%26+AI+%C2%B7+Pupila+Brand+Studio;Enterprise+Architecture+%C2%B7+Data%2C+Analytics+%26+AI+Strategy+%C2%B7+Governance;Data+Mesh+%7C+Lakehouse+%7C+MLOps+%7C+LLMOps+%7C+Multi-agent+AI;AWS+%7C+Azure+%7C+GCP+%7C+Oracle+%7C+Databricks+%7C+Terraform;11%2B+years+%C2%B7+3+regulated+orgs+%C2%B7+ANVISA+%7C+LGPD+%7C+GDPR+%7C+HMRC)](https://git.io/typing-svg)
 
 🏳️‍⚧️ **Trans Woman** &nbsp;|&nbsp; 🏛️ **Manager - Data, Analytic & AI · 11+ years** &nbsp;|&nbsp; ⚧️ **Former Executive Director — DiversificaDev / TransDevs**
 
