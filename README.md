@@ -2,7 +2,7 @@
 
 ![header](https://i.postimg.cc/B66TV9Xr/Ol-me-chamo-Sophia-Katze-Muito-prazer-2.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=760&lines=Manager+-+Data%2C+Analytics+%26+AI+%C2%B7+Pupila+Brand+Studio;Enterprise+Architecture+%C2%B7+Data%2C+Analytics+%26+AI+Strategy+%C2%B7+Governance;Data+Mesh+%7C+Lakehouse+%7C+MLOps+%7C+LLMOps+%7C+Multi-agent+AI;AWS+%7C+Azure+%7C+GCP+%7C+Oracle+%7C+Databricks+%7C+Terraform;11%2B+years+%C2%B7+3+regulated+orgs+%C2%B7+ANVISA+%7C+LGPD+%7C+GDPR+%7C+HMRC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=760&lines=Manager+-+Data%2C+Analytics+%26+AI+%C2%B7+Pupila+Brand+Studio;Enterprise+Architecture+%C2%B7+Data%2C+Analytics+%26+AI+Strategy+%C2%B7+Governance;Data+Mesh+%7C+Lakehouse+%7C+MLOps+%7C+LLMOps+%7C+Multi-agent+AI;AWS+%7C+Azure+%7C+GCP+%7C+Oracle+%7C+Databricks+%7C+Terraform;12%2B+years+%C2%B7+3+regulated+orgs+%C2%B7+ANVISA+%7C+LGPD+%7C+GDPR+%7C+HMRC)](https://git.io/typing-svg)
 
 🏳️‍⚧️ **Trans Woman** &nbsp;|&nbsp; 🏛️ **Manager - Data, Analytic & AI · 11+ years** &nbsp;|&nbsp; ⚧️ **Former Executive Director — DiversificaDev / TransDevs**
 
@@ -21,7 +21,7 @@
 
 **Manager - Data, Analytics & AI** at **Pupila Brand Studio** — an AI-powered brand intelligence platform that generates unlimited on-brand creative assets (photos, videos, illustrations) while holding strict brand consistency for marketing and creative teams across multiple countries.
 
-I don't just design architecture practices — I build the ones tech leads and engineers actually follow. Over **11+ years**, I've stood up Architecture Review Boards from zero at **three regulated organisations**, mentored tech leads and engineering coordinators on architecture decisions, and advised CIOs, CTOs, VPs and Directors on multi-million dollar technology investments across **healthcare diagnostics**, **global Martech** and **UK fintech**.
+I don't just design architecture practices — I build the ones tech leads and engineers actually follow. Over **12+ years**, I've stood up Architecture Review Boards from zero at **three regulated organisations**, mentored tech leads and engineering coordinators on architecture decisions, and advised CIOs, CTOs, VPs and Directors on multi-million dollar technology investments across **healthcare diagnostics**, **global Martech** and **UK fintech**.
 
 At Pupila I own the Data & AI function end to end — architecture ownership plus hands-on delivery. I design the AI/ML architecture behind the platform's generative capabilities, set technical direction and best practices for the engineering team, and still write production code. I report directly to the CTO/Head of Technology and the CEO.
 
